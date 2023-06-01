@@ -1,6 +1,6 @@
 !
 ! Title : Liste personnelle de blocage
-! Last modified: 2022-11-22T18:10:25.079Z
+! Last modified: 2023-06-01T18:10:25.079Z
 !
 
 !
@@ -976,3 +976,4 @@
 ||zendictees.fr
 # nouveaux filtres
 ||rebrand.ly/^$important
+||infra-antai.info^$important
