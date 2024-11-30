@@ -1,6 +1,6 @@
 !
 ! Title : Liste personnelle de blocage
-! Last modified: 2023-06-01T18:10:25.079Z
+! Last modified: 2024-11-30T18:10:25.079Z
 !
 
 !
@@ -977,3 +977,5 @@
 # nouveaux filtres
 ||rebrand.ly/^$important
 ||infra-antai.info^$important
+# nouveaux filtres
+@@||ctrk.klclick.com^$important
