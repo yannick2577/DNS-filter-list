@@ -977,5 +977,3 @@
 # nouveaux filtres
 ||rebrand.ly/^$important
 ||infra-antai.info^$important
-# nouveaux filtres
-@@||ctrk.klclick.com^$important
